@@ -41,6 +41,8 @@
 | [🔗 TodoApp](https://github.com/mohamedabdelnabii/todoapp) | A simple Flutter to-do list app with local storage using SharedPreferences | Flutter, Dart |
 | [🔗 BMI Calculator](https://github.com/mohamedabdelnabii/bmi) | A clean and interactive Flutter app to calculate BMI and interpret health status | Flutter, Dart |
 | [🔗 Pottery App](https://github.com/mohamedabdelnabii/pottery_app) | An e-commerce Flutter app for browsing and managing handmade pottery products | Flutter, Dart, SharedPreferences, Firebase (planned) |
+| [🔗  e-commerce app ](https://github.com/mohamedabdelnabii/flux_store) | An E-Commerce app for clothing | Flutter, Dart |
+
 
 ---
 
